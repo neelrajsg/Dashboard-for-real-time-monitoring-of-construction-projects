@@ -29,5 +29,4 @@ This repository contains a real-time dashboard application designed to monitor v
 - Docker (optional for containerized deployment)
 - GitHub Actions (optional for CI/CD)
 
-## 📂 Project Structure (example)
 
