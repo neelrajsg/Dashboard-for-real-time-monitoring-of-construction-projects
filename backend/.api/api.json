@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "floorplanner",
+      "source": "@floorplanner/v2.0#7qrxgm70go8hs",
+      "integrity": "sha512-0XSrvSlqeOsmlcaTvZpIi97sn4xmyO+ozrdcS6DWKeQR2muhlPPXmhxxw/HFChvDlbf3DNZ9mZbnM5yOSr2EfQ==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}
